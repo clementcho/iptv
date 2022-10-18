@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sexy K-POP" tvg-logo="https://i.imgur.com/XQnIwzp.png",Sexy K-POP
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Plus" tvg-logo="https://i.imgur.com/XQnIwzp.png",Bloomberg Plus
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" tvg-logo="https://i.imgur.com/XQnIwzp.png",like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="AXN East Asia (Indonesian subtitle) (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/XQnIwzp.png",AXN East Asia (Indonesian subtitle) (576p) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h141/index.m3u8
+#EXTINF:-1 tvg-name="金马影院" tvg-logo="https://i.imgur.com/XQnIwzp.png",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-name="影院＋" tvg-logo="https://i.imgur.com/XQnIwzp.png",影院＋
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="ViuTV Six" tvg-logo="https://i.imgur.com/XQnIwzp.png",ViuTV Six
+https://cdn.hklive.tv/hls/96/index.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://i.imgur.com/XQnIwzp.png",ViuTV
+https://cdn.hklive.tv/hls/99/index.m3u8
+#EXTINF:-1 tvg-name="now Sports 630" tvg-logo="https://i.imgur.com/XQnIwzp.png",now Sports 630
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-name="影視台" tvg-logo="https://i.imgur.com/XQnIwzp.png",影視台
+http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://i.imgur.com/XQnIwzp.png",粤语电影
+http://tcqcloudcdnct.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+#EXTINF:-1 tvg-name="龍華电影" tvg-logo="https://i.imgur.com/XQnIwzp.png",龍華电影
+http://61.219.170.95:18574/.m3u8
+#EXTINF:-1 tvg-name="Celestial Movies (Indonesian Subtitle) (576p)" tvg-logo="https://i.imgur.com/XQnIwzp.png",Celestial Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" tvg-logo="https://i.imgur.com/XQnIwzp.png",like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="animal planet" tvg-logo="https://i.imgur.com/XQnIwzp.png",animal planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+ US" tvg-logo="https://i.imgur.com/XQnIwzp.png",Bloomberg TV+ US
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-name="ViuTV Six" tvg-logo="https://i.imgur.com/XQnIwzp.png",ViuTV Six
+https://cdn.hklive.tv/hls/96/index.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.imgur.com/XQnIwzp.png",MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 tvg-name="Rakuten Comedy Movies UK (720p)" tvg-logo="https://i.imgur.com/XQnIwzp.png",Rakuten Comedy Movies UK (720p)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten Action Movies UK (720p)" tvg-logo="https://i.imgur.com/XQnIwzp.png",Rakuten Action Movies UK (720p)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="亚洲电影" tvg-logo="https://i.imgur.com/XQnIwzp.png",亚洲电影
+https://ac-samsung-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="DNTV电影" tvg-logo="https://i.imgur.com/XQnIwzp.png",DNTV电影
+https://dmtv-viziosc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="乐天热门电影" tvg-logo="https://i.imgur.com/XQnIwzp.png",乐天热门电影
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="荒野电视" tvg-logo="https://i.imgur.com/XQnIwzp.png",荒野电视
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="THE MOVIE" tvg-logo="https://i.imgur.com/XQnIwzp.png",THE MOVIE
+https://dje6yassknq8t.cloudfront.net/playlist360p.m3u8
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://i.imgur.com/XQnIwzp.png",無綫新聞台
+http://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://i.imgur.com/XQnIwzp.png",明珠台
+http://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-name="TVB" tvg-logo="https://i.imgur.com/XQnIwzp.png",TVB
+http://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://i.imgur.com/XQnIwzp.png",J2
+http://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-name="tvN Asia (Indonesian Subtitle) (576p)" tvg-logo="https://i.imgur.com/XQnIwzp.png",tvN Asia (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 tvg-name="金马影院" tvg-logo="https://i.imgur.com/XQnIwzp.png",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
