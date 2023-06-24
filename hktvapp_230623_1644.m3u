@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sexy K-POP" tvg-logo="https://i.imgur.com/XQnIwzp.png",Sexy K-POP
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Plus" tvg-logo="https://i.imgur.com/XQnIwzp.png",Bloomberg Plus
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 tvg-name="Celestial Movies (Indonesian Subtitle) (576p)" tvg-logo="https://i.imgur.com/XQnIwzp.png",Celestial Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://i.imgur.com/XQnIwzp.png",澳门莲花
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 tvg-name="國家地理" tvg-logo="https://i.imgur.com/XQnIwzp.png",國家地理
+https://ythls.onrender.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://i.imgur.com/XQnIwzp.png",Now爆谷台
+https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1686313038&rand=iwGMA0hPaB&uuid=9b647b3816b2a66a&from=web&sign=9082127803e8812c2ae24752e37cf96e
+#EXTINF:-1 tvg-name="HKIBC正版" tvg-logo="https://i.imgur.com/XQnIwzp.png",HKIBC正版
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-name="香港ViuTVsix 96" tvg-logo="https://i.imgur.com/XQnIwzp.png",香港ViuTVsix 96
+https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&timestamp=1686312742&rand=Y7eXG3efQI&uuid=9b647b3816b2a66a&from=web&sign=86747a9fce37fbe07c36538292458eb2
+#EXTINF:-1 tvg-name="now財經台" tvg-logo="https://i.imgur.com/XQnIwzp.png",now財經台
+https://dispatch.ulivetv.net/v/live/cnnrkvw6g98g.m3u8?stream_id=cnnrkvw6g98g&timestamp=1687010652&rand=jcfkjtEgAZ&uuid=9b647b3816b2a66a&from=web&sign=6182fed2caa8c1e44b8e9cd769b4e4e2
+#EXTINF:-1 tvg-name="now新聞台" tvg-logo="https://i.imgur.com/XQnIwzp.png",now新聞台
+https://dispatch.ulivetv.net/v/live/cfxqkxoxany8.m3u8?stream_id=cfxqkxoxany8&timestamp=1687010204&rand=AECZgFC6io&uuid=9b647b3816b2a66a&from=web&sign=4719da18ddde6c0b6479aa430f82e9d0
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://i.imgur.com/XQnIwzp.png",翡翠台
+https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1687172715&rand=6BEbZ08lkK&uuid=9b647b3816b2a66a&from=web&sign=97ec5ec347f768b1d77b4b2a9966055c
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://i.imgur.com/XQnIwzp.png",ViuTV
+https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1687011718&rand=17rfnuTkJB&uuid=9b647b3816b2a66a&from=web&sign=1c0fdc861afc25004f6f160a8541ee0c
